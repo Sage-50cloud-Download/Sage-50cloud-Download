@@ -14,7 +14,7 @@
 
 <!-- Tool Preview -->
 <p align="center">
-  <img src="https://www.sage.com/en-ie/-/media/images/sagedotcom/master/products/sage-50-refresh/ie/features-cash-flow.png" alt="Sage 50cloud Unlock Tool Preview" width="800" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2b40f287-d99c-4df8-a577-764cdcfb3737.png" alt="Sage 50cloud Unlock Tool Preview" width="800" />
 </p>
 
 ---
